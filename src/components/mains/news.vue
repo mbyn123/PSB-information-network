@@ -121,7 +121,7 @@
         height:406px;
     }
     .side .title3 a{
-        color: white;
+        color: #fff;
         font-size: 14px;
     }
 
@@ -138,7 +138,7 @@
     margin-left: 10px;
     display: inline-block;
     font-size: 14px;
-    color:black;
+    color:#333;
 }
 .message .f1 img{
     vertical-align: top;
