@@ -1,18 +1,26 @@
 <template>
   <div id="app">
-    <div>
-      <AppS/>
-    </div>
+        <TopHeader/>
+        <NavBar/>
+        <Container/>
+        <Footer/>
   </div>
 </template>
 
 <script>
 
-import AppS from "./components/component/AppS"
+  import TopHeader from "./components/top-header"
+  import NavBar from "./components/nav-bar"
+  import Container from "./components/container"
+  import Footer from "./components/footer"
+
 export default {
   name: 'app',
  components:{
-   AppS
+   TopHeader,
+   NavBar,
+   Container,
+   Footer
  }
 }
 </script>
