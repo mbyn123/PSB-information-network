@@ -26,6 +26,6 @@
          $ git clone git@github.com:mbyn123/PSB-information-network.git
          $ cd PSB-information-network
          $ npm install
-         $ npm serve
+         $ npm run serve
 
 
