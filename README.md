@@ -21,25 +21,11 @@
 3.使用到了`iview`库中的`Grid`格栅系统进行布局,可以在不同的分辨率下的电脑屏下进行适配显示
 
 
-### 项目运行方法
+### 项目运行
+   
+         $ git clone git@github.com:mbyn123/PSB-information-network.git
+         $ cd PSB-information-network
+         $ npm install
+         $ npm serve
 
-         1.下载项目到本地
 
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
